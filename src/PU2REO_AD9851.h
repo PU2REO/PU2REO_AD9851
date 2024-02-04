@@ -45,7 +45,7 @@ class PU2REO_AD9851
 // Prototypes
 //------------------------------------------------------------------------------
 public:
-	PU2REO_AD9851::PU2REO_AD9851(int W_CLK, int FQ_UD, int DATA, int RESET);
+	PU2REO_AD9851(int W_CLK, int FQ_UD, int DATA, int RESET);
 	void      	Init(void);
 	void 		SetFrequency(double freq, uint8_t phase);
 private:
