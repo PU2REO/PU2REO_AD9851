@@ -5,9 +5,9 @@ The AD9851 is a highly integrated device that uses advanced DDS technology, coup
 
 # Public Methods
 ```cpp
-  PU2REO_AD9851::PU2REO_AD9851(int W_CLK, int FQ_UD, int DATA, int RESET);
-  void      	Init(void);
-  void 			SetFrequency(double freq, uint8_t phase);
+          PU2REO_AD9851(int W_CLK, int FQ_UD, int DATA, int RESET);
+  void    Init(void);
+  void 		SetFrequency(double freq, uint8_t phase);
 ```
 
 # What sets this library apart from the others?
