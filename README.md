@@ -14,3 +14,4 @@ The AD9851 is a highly integrated device that uses advanced DDS technology, coup
 * Calculation of Frequency Control Word is refined to maximize precision
 * No manual bit-bang used when transferring from Aruino no AD9851
 
+![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/PU2REO/PU2REO_AD9851/total)
